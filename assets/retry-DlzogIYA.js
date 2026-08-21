@@ -1,0 +1,1 @@
+import{N as e}from"./index-DDIroNt6.js";async function t(t,{maxAttempts:n=3,baseDelayMs:r=1e3,shouldRetry:i=e,onRetry:a}={}){let o;for(let e=1;e<=n;e++)try{return await t()}catch(t){if(o=t,!i(t)||e>=n)throw t;let s=r*2**(e-1);a==null||a(t,e),await new Promise(e=>setTimeout(e,s))}throw o}export{t};

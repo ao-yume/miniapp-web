@@ -1,0 +1,1 @@
+import{C as e,S as t,x as n}from"./index-DDIroNt6.js";function r(r){let i=e({warn:(r==null?void 0:r.router)===void 0}),a=(r==null?void 0:r.router)||i;return t(a.stores.__store,n(r,a))}export{r as t};

@@ -1,0 +1,1 @@
+import{V as e,v as t}from"./index-DDIroNt6.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};

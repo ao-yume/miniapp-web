@@ -1,0 +1,1 @@
+import{n as e}from"./LoginPage-DSGJxWqh.js";var t=e;export{t as component};
